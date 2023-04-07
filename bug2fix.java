@@ -1,1 +1,1 @@
-to resalve the bug in bug2fix.java
+to resalve the bugfile in bug2fix.java
